@@ -1,5 +1,3 @@
-package JavaBasicPrograms;
-
 import java.util.Scanner;
 
 public class AddTwoNumber {
@@ -11,7 +9,9 @@ public class AddTwoNumber {
         System.out.print("Enter the second number:");
         int num2 = input.nextInt();
         int sum = num1+num2;
-        System.out.
+        System.out.print("the sum of two number is:");
+        System.out.print(sum);
+
 
 
     }
