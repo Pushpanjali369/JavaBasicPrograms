@@ -1,4 +1,4 @@
-public class shalowCopyDeepCopy {
+public class shalowCopy {
     public static void main(String[] args){
         int[] arr = {10,20,30,40};
         int[] x = arr;
